@@ -1,0 +1,19 @@
+# Runtime and development output
+.env
+.env.*
+!.env.example
+*.log
+*.db
+*.sqlite*
+data*/
+node_modules/
+dist/
+.venv/
+__pycache__/
+.pytest_cache/
+*.tsbuildinfo
+.workbuddy/
+certs/
+release/
+evaluation/fixtures/
+evaluation/testlib/
